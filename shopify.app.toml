@@ -3,7 +3,7 @@
 client_id = "d701cadef4ec8914478119c68da73995"
 name = "test-bul-app"
 handle = "test-bul-app"
-application_url = "https://americas-refused-warner-pray.trycloudflare.com"
+application_url = "https://madagascar-occurs-arm-rw.trycloudflare.com"
 embedded = true
 
 [build]
@@ -17,9 +17,9 @@ scopes = "write_products"
 
 [auth]
 redirect_urls = [
-  "https://americas-refused-warner-pray.trycloudflare.com/auth/callback",
-  "https://americas-refused-warner-pray.trycloudflare.com/auth/shopify/callback",
-  "https://americas-refused-warner-pray.trycloudflare.com/api/auth/callback"
+  "https://madagascar-occurs-arm-rw.trycloudflare.com/auth/callback",
+  "https://madagascar-occurs-arm-rw.trycloudflare.com/auth/shopify/callback",
+  "https://madagascar-occurs-arm-rw.trycloudflare.com/api/auth/callback"
 ]
 
 [webhooks]
